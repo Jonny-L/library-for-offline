@@ -1,0 +1,109 @@
+{
+    "bookFields": {
+        "title": {
+            "title": "Title",
+            "isEditable": false,
+            "isVisible": true
+        },
+        "subtitle": {
+            "title": "Subtitle",
+            "isEditable": true,
+            "isVisible": true
+        },
+        "ISBN10": {
+            "title": "ISBN10",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "ISBN13": {
+            "title": "ISBN13",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "series": {
+            "title": "Series",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "publisher": {
+            "title": "Publisher",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "genre": {
+            "title": "Genre",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "author": {
+            "title": "Author",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "tag": {
+            "title": "Tag",
+            "isEditable": true,
+            "isVisible": true
+        },
+        "publishingYear": {
+            "title": "Publishing Year",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "pages": {
+            "title": "Pages",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "binding": {
+            "title": "Binding",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "cover": {
+            "title": "Cover",
+            "isEditable": false,
+            "isVisible": true
+        },
+        "images": {
+            "title": "Images",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "description": {
+            "title": "Description",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "edition": {
+            "title": "Edition",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "physicalForm": {
+            "title": "Physical Form",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "size": {
+            "title": "Size",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "rating": {
+            "title": "Rating",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "language": {
+            "title": "Language",
+            "isEditable": true,
+            "isVisible": false
+        },
+        "type": {
+            "title": "Type",
+            "isEditable": true,
+            "isVisible": false
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "databaseConnections": [
+        {
+            "name": "New Connection",
+            "databaseType": "mysql",
+            "databaseName": "library_serikali",
+            "host": "localhost",
+            "port": "3307",
+            "username": "root",
+            "password": "root",
+            "charset": "utf8"
+        }
+    ],
+    "activeConnectionName": "New Connection"
+}
